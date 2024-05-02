@@ -1,7 +1,7 @@
 import { createBottomTabNavigator } from "@react-navigation/bottom-tabs";
 
 import { StackRoutes } from "./stackRoutes";
-import { Favorites } from "../pages/favorites";
+import { Favorites } from "../pages/favoritas";
 import {Ionicons} from '@expo/vector-icons'
 const Tab = createBottomTabNavigator();
 
